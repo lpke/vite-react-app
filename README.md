@@ -1,4 +1,6 @@
-# vite-app
+# vite-react-app
+
+React/Vite frontend boilerplate
 
 ## Setup
 

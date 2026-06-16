@@ -1,9 +1,9 @@
 {
-  "name": "vite-app",
+  "name": "vite-react-app",
   "version": "1.0.0",
-  "homepage": "https://github.com/lpke/vite-app",
+  "homepage": "https://github.com/lpke/vite-react-app",
   "author": "luke@lpdev.io",
-  "description": "Boilerplate Vite App",
+  "description": "React/Vite frontend boilerplate",
   "type": "module",
   "engines": {
     "node": ">=24",

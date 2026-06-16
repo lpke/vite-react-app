@@ -1,5 +1,5 @@
 {
-  description = "vite app dev shell";
+  description = "vite react app dev shell";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
